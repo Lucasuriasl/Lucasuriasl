@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning C<br>🎯 Goals: I want to change my career path.</p>
+<p align="left">📚 I'm currently learning C<br>🎯 Goals: Continuously explore and implement innovative algorithms to solve computationally intensive tasks with low-level efficiency. .</p>
 
 ###
 
